@@ -8,7 +8,7 @@ int main()
     cout << endl;
     cout << "Welcome to the School Club Assigner!" << endl;
     cout << endl;
-    cout << "Here firstly you are going to type the amount of clubs and students. Later on the names of the teachers and the students with their interests." << endl;
+    cout << "Here firstly you are going to write the amount of clubs and students. Later on the names of the teachers and the students with their interests." << endl;
     cout << endl;
     cout << "The format being:" << endl;
     cout << "Name MainInterest SideInterest" << endl;
