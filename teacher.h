@@ -1,9 +1,8 @@
 #pragma once
-#include <iostream>
-#include <string>
-#include <vector>
 
-class person
+#include <person.h>
+
+class teacher
 {
     private:
         std::string name;
@@ -11,6 +10,7 @@ class person
         std::string main;
 
     public:
-        person();
-        virtual ~person();
+        teacher();
+        virtual ~teacher();
+
 };
